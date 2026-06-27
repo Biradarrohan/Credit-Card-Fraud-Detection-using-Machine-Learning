@@ -13,17 +13,9 @@ The objective is to identify abnormal transactions that may represent fraud. Sin
 
 ## Dataset
 
-Dataset: Credit Card Fraud Detection Dataset
+Dataset Download:
 
-Features:
-- Time
-- V1–V28 (PCA transformed features)
-- Amount
-- Class
-
-Target Variable:
-- 0 = Genuine Transaction
-- 1 = Fraudulent Transaction
+https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
 ---
 
